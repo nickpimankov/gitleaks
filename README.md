@@ -1,6 +1,6 @@
 ## Pre-commit hook using `gitleaks`
 
-#Script how-to:
+**Script how-to:**
 
 Installing the script:
 ```bash
