@@ -22,4 +22,5 @@ Commiting the changes:
 ```bash
 git commit -m "commit message"
 ```
-At this point if the script is enabled, it will check the code for secrets. If any of those found, the script would message and error and abort the commit.
+
+**At this point if the script is enabled, it will check the code for secrets. If any of those found, the script would message an error and abort the commit.**
